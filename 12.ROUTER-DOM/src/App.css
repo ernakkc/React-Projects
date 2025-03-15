@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #91ff87;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: fit-content;
+    padding-block: 1em;
+}
+
+.header > *{
+    margin-inline: 1em;
+    border: 1px solid white;
+    padding: 0.8em;
+    border-radius: 15px;
+    background-color: #000000b2;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}

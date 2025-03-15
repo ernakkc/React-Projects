@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "bbb@hotmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Eren",
+      "email": "ern.akkc@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Elanur Kurt",
+      "email": "abbbbowww@gmal.com"
+    }
+  ]
+}
